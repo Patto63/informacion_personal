@@ -2,5 +2,5 @@ Patricio Salazar Santana
 mi edad es 21
 Av. Los Chasquis
 Estoy en cuarto semestre
-Metodologías Agiles de Software
+Manejo y Configuración de Software
 cualquier cosa
