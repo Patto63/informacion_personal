@@ -3,4 +3,4 @@ mi edad es 21
 Av. Los Chasquis
 Estoy en cuarto semestre
 Manejo y Configuración de Software
-
+Metodologias Agiles
