@@ -4,3 +4,4 @@ Av. Los Chasquis
 Estoy en cuarto semestre
 Manejo y Configuración de Software
 Metodologias Agiles
+Computacion Visual
