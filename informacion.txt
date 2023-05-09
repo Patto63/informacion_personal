@@ -6,3 +6,4 @@ Manejo y Configuración de Software
 Metodologias Agiles
 Computacion Visual
 base de datos
+No se debe modificar desde git
